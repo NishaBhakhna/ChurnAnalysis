@@ -1,7 +1,11 @@
 # ChurnAnalysis
+
 **Content**: Dataset,EDA Jupyter notebook & Powerpoint presentation.
+
 **Overview**: In this project, we delve into customer churn data to uncover the key drivers behind customer attrition. Our approach involves utilizing Python for tasks such as data preparation and conducting exploratory data analysis (EDA). Our primary objective is to extract meaningful insights regarding the causes of customer churn and, ultimately, formulate practical recommendations aimed at mitigating the rate of customer attrition.
+
 **Analysis**: First we clean the data & handle missing values. Remove or insert new tabs. Second, we visualize the data using univariate & bivariate analysis. Finally, we come up with final findings.
+
 **Conclusion**: High Churn:
 
 1. Customers who have no online security, Tech support, Online backup & device protection,are more likely to churn.
